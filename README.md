@@ -2,7 +2,7 @@
 
 ## This pipline performs the QC of rna data from download to filtere and trimmed reads ready for downstream analysis. 
 
-# The pipeline performs the following steps. 
+## The pipeline performs the following steps. 
 1. Download from basespace
 2. fastQC
 3. pool lanes of data a repair if needed
